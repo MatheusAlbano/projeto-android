@@ -175,11 +175,14 @@ div.video > iframe {
     height: 90%;
 }
 footer {
-   background-color: var(--cor5);
+    background-color: var(--cor5);
     color: white;
     text-align: center;
-    font-size: 0.8em;
-    padding: 5px;
+    font-size: 0.9em;
+    padding: 8px;
+}
+footer > p {
+    color: white;
 }
 footer a {
     text-decoration: underline;
